@@ -25,7 +25,7 @@ The method addresses the challenge of discovering novel object categories in 3D 
 
 ### Prerequisites (Conda)
 
-- Python 3.8 CUDA 11.3
+- Python 3.8+CUDA 11.3
 - spconv
 - mmdet3d 1.2.0
 - mmcv 2.0.0rc4
@@ -34,6 +34,7 @@ The method addresses the challenge of discovering novel object categories in 3D 
 - pytorch-lightning 1.4.8 
 - pytorch-scatter 1.2.0
 - fast-pytorch-kmeans 0.2.0.1
+- minkowskiengine 0.5.4
 
 ## Project Structure
 
