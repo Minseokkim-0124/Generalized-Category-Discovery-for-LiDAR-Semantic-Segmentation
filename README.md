@@ -157,7 +157,13 @@ The method evaluates on three different unknown class splits:
 Please cite the following paper if you use our code:
 
 ```
-TBD
+@inproceedings{kim2026generalized,
+  title={Generalized Category Discovery for LiDAR Semantic Segmentation},
+  author={Kim, Minseok and Boo, Jiyong and Yoon, Kuk-Jin},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={8416--8426},
+  year={2026}
+}
 ```
 
 ## License
